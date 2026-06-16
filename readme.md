@@ -8,3 +8,10 @@ the best ways are:
 
 thank you!
 thank you!
+
+-eat
+-sleep
+-code
+-thank you!
+# this is my repo
+it is a nice repo
